@@ -7,7 +7,7 @@ To open the project and make it work you should:
   1. Download the file ExploreMars.rar from GitHub repository wherever you want in your local folders
   2. Using the file decompressor of your choice and the option "Extract Here" you will have the folder ExploreMars (I highly recommend WinRAR seeing that I used it for compression: http://www.rarlab.com/download.htm)
   3. Open your Intellij IDEA (wich can be downloaded in the following link: https://www.jetbrains.com/idea/download/)
-  4. Select the Import Project option from the initial screen or from the menu File
+  4. Select the Import Project option from the initial screen.
   5. When the destination is asked make sure you find and select the folder ExploreMars
   6. Click the OK button
   7. Select the Option: Create project from existing sources. Click Next.
