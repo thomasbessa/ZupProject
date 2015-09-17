@@ -27,4 +27,9 @@ To open the project and make it work you should:
   21. By pressing ALT+Enter on your keyboard a context menu will appear showing some options.
   22. Look for the one wich contains a red light bulb and the text: Add JUnit to classpath.
   23. You will know you did the right thing if the "@Test" changes its color.
-  24. 
+  24. Now back to the project folder src, where you first saw the file RoverTest.
+  25. Click with the rigth button over this one file (RoverTest).
+  26. A context menu will appear. Choose the option Run 'RoverTest'.
+  27. After a little time a subdivision of the IDE will appear showing the following statment: "Process finished with exit code 0"
+  28. This indicates that all tests ended up well, showing the expected result.
+  29. Any other doubts contact me. thomas.bessa@gmail.com
