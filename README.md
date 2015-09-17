@@ -25,7 +25,7 @@ To open the project and make it work you should:
   19. When you decide to move on, double click the RoverTest to see its code.
   20. Due to importantion some of the code is messed up. Nothing to be alarmed. To fix it you only need to click on the code wherever it is written @Test. Make sure the blinking bar wich represents the insertion cursor is anywhere on the word Test.
   21. By pressing ALT+Enter on your keyboard a context menu will appear showing some options.
-  22. Look for the one wich contains a red light bulb and the text: Add JUnit to classpath.
+  22. Look for the one wich contains a red light bulb and the text: Add JUnit to classpath. Select it by clicking on it.
   23. You will know you did the right thing if the "@Test" changes its color.
   24. Now back to the project folder src, where you first saw the file RoverTest.
   25. Click with the rigth button over this one file (RoverTest).
