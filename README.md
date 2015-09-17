@@ -32,4 +32,8 @@ To open the project and make it work you should:
   26. A context menu will appear. Choose the option Run 'RoverTest'.
   27. After a little time a subdivision of the IDE will appear showing the following statment: "Process finished with exit code 0"
   28. This indicates that all tests ended up well, showing the expected result.
+  29. To run a the code and see it working go to the src folder again.
+  30. Right click on the file named Main
+  31. Chose the option Run 'Main'
+  32. After a little time a subdivision of the IDE will appear showing the execution of the code.
   29. Any other doubts contact me. thomas.bessa@gmail.com
