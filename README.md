@@ -35,5 +35,5 @@ To open the project and make it work you should:
   29. To run a the code and see it working go to the src folder again.
   30. Right click on the file named Main
   31. Chose the option Run 'Main'
-  32. After a little time a subdivision of the IDE will appear showing the execution of the code and the expected results.
+  32. After a little time a subdivision of the IDE will appear showing the execution of the code and the expected results. Depending on the resolution of the screen or size of the monitor you may have to roll this subdivision sidebar to see it all.
   29. Any other doubts contact me. thomas.bessa@gmail.com
